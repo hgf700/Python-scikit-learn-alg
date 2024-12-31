@@ -1,0 +1,4 @@
+pip install jupyter pandas scikit-learn matplotlib
+
+
+python.exe -m pip install --upgrade pip
