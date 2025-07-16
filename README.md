@@ -8,6 +8,7 @@ It also includes essential **data preprocessing** and basic **data science workf
 - Focused on **supervised learning**, primarily:
   - **Classification** algorithms (e.g., Decision Trees, k-NN, Random Forest, SVM)
 - Includes basic **evaluation metrics** such as accuracy, confusion matrix, and cross-validation
+- Additionaly i started **unsupervised learning**
 
 ## Technologies
 
