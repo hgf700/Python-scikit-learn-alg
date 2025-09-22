@@ -1,5 +1,4 @@
-llmy/venv/*
-llmy/archive/*
-llmy/.ipynb_checkpoints/*
-llmy/*.jpg
-llmy/*.py
+venv/
+archive/*
+.ipynb_checkpoints/*
+.git
